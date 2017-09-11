@@ -1,3 +1,5 @@
+//this program uses the Vigenere method to encypher text
+
 #include <stdio.h>
 #include <cs50.h>
 #include <ctype.h>
