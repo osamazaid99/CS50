@@ -1,3 +1,5 @@
+//this program outputs the minimum number of coins to be used to give a certain amount of change as per the user input.
+
 #include <stdio.h>
 #include <cs50.h>
 #include <math.h>
