@@ -1,3 +1,5 @@
+//This programs uses the Caesar encypher method.
+
 #include <stdio.h>
 #include <cs50.h>
 #include <ctype.h>
