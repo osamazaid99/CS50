@@ -1,3 +1,5 @@
+//this program outputs a half pyramid just as the one used in the Mario Bros game
+
 #include <stdio.h>
 #include <cs50.h>
 
